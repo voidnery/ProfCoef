@@ -1,0 +1,15 @@
+URL - https://ru-partners.sporthub.bet/api/partner_feed/v1/matches/get_by_tournament_ids
+Поле 1 - x-partner
+Поле 2 - bbtennis_studio
+Поле 3 - x-access-token
+Поле 4 - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjQwODM2NTA3OTh9.OvERmas2kUXhHrM9aJjrMPKnih60XCPe3212LxmptgY
+
+ID турнира - 8345
+
+Тип матча - prematch (перед матчем); live (в матче)
+
+URL (vMix Data Source) - http://localhost:8000/edited_data.json
+
+pip install requests pyttsx3
+
+pip install requests PyQt5
